@@ -1,0 +1,5 @@
+alieksioglu\tableService\model\table\Table.class
+alieksioglu\tableService\model\table\TableData.class
+alieksioglu\tableService\TableServiceApplication.class
+alieksioglu\tableService\controller\TableController.class
+alieksioglu\tableService\model\table\TableUserData.class

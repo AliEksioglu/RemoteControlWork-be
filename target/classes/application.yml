@@ -1,0 +1,17 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: rootuser
+      password: rootpass
+      database: officeMatrix
+      port: 27017
+      host: localhost
+
+rapidapi:
+  holiday:
+    header:
+      value: 1e781e3af1msha8ec69a13451384p1da07bjsn3dbb5774e742
+      key: X-Rapidapi-Key
+    base-url: https://public-holiday.p.rapidapi.com/year/country
+
